@@ -1,0 +1,106 @@
+body{
+	background: url(https://www.walldevil.com/wallpapers/a82/wallpaper-texture-light-textured-wallpapers.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+body,
+html{
+	font-family: "Lato";
+	color: #D0A6A0;
+	height: 100%;
+	width: 100%;
+	size: auto;
+}
+
+#content{
+	text-align: center;
+	padding-top: 1%;
+	text-shadow: 0px 2px 4px black,
+				 0px 3px 6px black;
+				 /*0px 5px 8px black;*/
+}
+
+h1{
+	font-weight: 700;
+	font-size: 2em;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
+h3{
+	text-align: right;
+	font-size: 1.5em;
+	margin-right: 40px;
+	margin-bottom: 40px;
+	text-shadow: 0px 1px 2px black,
+				0px 3px 6px black;
+
+}
+
+#plot{
+	/*border: 1px solid #7587A7;*/
+	width:90%;
+	height:73%;
+	margin: auto;
+}
+
+img{
+  position: relative;
+  top: -16px;
+  right: -706px;
+  z-index: 3;
+  border : none;
+  max-width: 200px;
+  max-height: 150px;
+  
+}
+
+hr{
+	width: 550px;
+	border-top: 1px solid #D0A6A0;
+	border-bottom: 2px solid rgba(0, 0, 0, 0.3);
+}
+
+input[type=checkbox]{
+	margin-left: 5px;
+
+}
+.content2{
+	text-align: center;
+	text-shadow: 0px 4px 9px white,
+			 0px 5px 14px white,
+			 0px 7px 20px white;
+}
+
+.questions{
+	padding-top: 1%;
+	padding-left: 4%;
+	text-align: center;
+	background: rgba(255, 255, 255, 0.9);
+
+}
+
+.month{
+	margin-left: 4px;
+	margin-right: 4px;
+}
+
+#button_holder{
+	text-align: center;
+	padding-bottom: 2%;
+}
+
+#details{
+	color: black;
+}
+
+.option{
+	margin: 10px 0 10px 0;
+	text-align: center;
+	font-family: "Lato";
+	font-size: 1.2em;
+	
+}
+
+
